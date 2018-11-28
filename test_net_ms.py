@@ -1,7 +1,8 @@
 # --------------------------------------------------------
 # Pytorch FPN implementation
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Jianwei Yang, based on code from faster R-CNN
+# based on implementation for faster R-CNN
+# provided by Jianwei Yang, I have made changes 
+# specific to Multiscale Testing in various files required.
 # --------------------------------------------------------
 
 from __future__ import absolute_import
